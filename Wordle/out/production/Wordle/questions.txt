@@ -1,0 +1,13 @@
+What are some aspects of "good code"?
+    Aspects of good code may be readability, efficentncy, and ability to adapt to unexpected inputs/exceptions.
+
+How was the functionality of your program divided across classes? How does this design paradigm support aspects of "good code" that you identified?
+    My program wasn't really divided across multiple classes, which contributed to the lack of understanding and made it harder to follow my code.
+    It made me realize the importance of using multiple classes, as it would've made my code easier to read and helped me write code that passes test cases.
+
+Why would a Javadoc reference be valuable for programmers?
+    It's valuable for programmers because it allows cohesion despite it not being written by them. It also allows programmers to possibly find bugs or increase
+    the efficency of the code since they know what the code is supposed to do.
+
+What was one thing you didn't understand at the beginning of this project that you know now?
+    Lots of things! I spent a lot of time researching about different methods, when to use return/return types, calling a method, manipulating private variables, among others.
